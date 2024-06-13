@@ -4,6 +4,7 @@
 # The test is run with an original data size of 200Mbps, aiming to compress it to 1Mbps within 0.001 seconds.
 # The result of the test is printed out. If the compression is not successful within the specified time or size,
 # the function returns a failure message. Otherwise, it confirms the compression was successful.
+# I am Thai, and I am 36 years old. I have only been using Python for 1-2 weeks.
 
 import heapq
 import collections
